@@ -13,8 +13,8 @@ Change the binary number to decimal
 
 ## How to test
 
-Explain how to use your project
+use binary numbers from 0 to 9 an then you recieve an equal decimal number
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+an extra display could be use
